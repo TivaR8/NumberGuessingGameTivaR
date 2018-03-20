@@ -33,8 +33,8 @@
             this.btnCheck = new System.Windows.Forms.Button();
             this.lblGotItRight = new System.Windows.Forms.Label();
             this.lblGotItWrong = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.picSymbol = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.picSymbol)).BeginInit();
             this.SuspendLayout();
             // 
             // lblQuestion
@@ -81,22 +81,22 @@
             this.lblGotItWrong.TabIndex = 4;
             this.lblGotItWrong.Text = "You got it Wrong, Sorry.";
             // 
-            // pictureBox1
+            // picSymbol
             // 
-            this.pictureBox1.Image = global::NumberGuessingGameTivaR.Properties.Resources.checkmark;
-            this.pictureBox1.Location = new System.Drawing.Point(193, 151);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(150, 115);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 5;
-            this.pictureBox1.TabStop = false;
+            this.picSymbol.Image = global::NumberGuessingGameTivaR.Properties.Resources.checkmark;
+            this.picSymbol.Location = new System.Drawing.Point(193, 151);
+            this.picSymbol.Name = "picSymbol";
+            this.picSymbol.Size = new System.Drawing.Size(150, 115);
+            this.picSymbol.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picSymbol.TabIndex = 5;
+            this.picSymbol.TabStop = false;
             // 
             // frmNumberGuessing
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(424, 278);
-            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.picSymbol);
             this.Controls.Add(this.lblGotItWrong);
             this.Controls.Add(this.lblGotItRight);
             this.Controls.Add(this.btnCheck);
@@ -104,7 +104,7 @@
             this.Controls.Add(this.lblQuestion);
             this.Name = "frmNumberGuessing";
             this.Text = "Number Guessing Game By Tiva Rait";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picSymbol)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -117,7 +117,7 @@
         private System.Windows.Forms.Button btnCheck;
         private System.Windows.Forms.Label lblGotItRight;
         private System.Windows.Forms.Label lblGotItWrong;
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox picSymbol;
     }
 }
 

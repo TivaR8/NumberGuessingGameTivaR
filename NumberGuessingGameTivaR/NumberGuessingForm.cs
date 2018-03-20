@@ -20,6 +20,8 @@ namespace NumberGuessingGameTivaR
 {
     public partial class frmNumberGuessing : Form
     {
+        // Constant that has the secret number.
+        const int secretNumber = 9;
         public frmNumberGuessing()
         {
             InitializeComponent();
@@ -28,11 +30,23 @@ namespace NumberGuessingGameTivaR
         private void btnCheck_Click(object sender, EventArgs e)
         {
             // Define Variables
-
-
+            int guess;
             // Putting in sound
             System.Media.SoundPlayer player = new System.Media.SoundPlayer();
             player.Play();
+
+            // Get the users guess from the Text box
+            guess = int.Parse(txtGuessBox.Text);
+
+            // Compare numbers to see if the user guessed the right number.
+            if (secretNumber == guess)
+            {
+                this.picSymbol.Image = Properties.Resources.checkmark;
+            }
+            else
+            {
+                this.picSymbol.Image = Properties.Resources.red_x;
+            }
         }
     }
 }

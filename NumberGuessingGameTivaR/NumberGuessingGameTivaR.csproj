@@ -85,5 +85,11 @@
   <ItemGroup>
     <None Include="Resources\red_x.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Correct Answer Sound Effect.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wrong Buzzer Sound Effect.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

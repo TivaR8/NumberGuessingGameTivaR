@@ -7,3 +7,13 @@ N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit
 N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\NumberGuessingGameTivaR\NumberGuessingGameTivaR\obj\Debug\NumberGuessingGameTivaR.csproj.GenerateResource.Cache
 N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\NumberGuessingGameTivaR\NumberGuessingGameTivaR\obj\Debug\NumberGuessingGameTivaR.exe
 N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\NumberGuessingGameTivaR\NumberGuessingGameTivaR\obj\Debug\NumberGuessingGameTivaR.pdb
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NumberGuessingGameTivaR\NumberGuessingGameTivaR\bin\Debug\NumberGuessingGameTivaR.exe.config
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NumberGuessingGameTivaR\NumberGuessingGameTivaR\bin\Debug\NumberGuessingGameTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NumberGuessingGameTivaR\NumberGuessingGameTivaR\bin\Debug\NumberGuessingGameTivaR.pdb
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NumberGuessingGameTivaR\NumberGuessingGameTivaR\obj\Debug\NumberGuessingGameTivaR.csprojResolveAssemblyReference.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NumberGuessingGameTivaR\NumberGuessingGameTivaR\obj\Debug\NumberGuessingGameTivaR.frmNumberGuessing.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NumberGuessingGameTivaR\NumberGuessingGameTivaR\obj\Debug\NumberGuessingGameTivaR.Properties.Resources.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NumberGuessingGameTivaR\NumberGuessingGameTivaR\obj\Debug\NumberGuessingGameTivaR.csproj.GenerateResource.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NumberGuessingGameTivaR\NumberGuessingGameTivaR\obj\Debug\NumberGuessingGameTivaR.csproj.CoreCompileInputs.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NumberGuessingGameTivaR\NumberGuessingGameTivaR\obj\Debug\NumberGuessingGameTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NumberGuessingGameTivaR\NumberGuessingGameTivaR\obj\Debug\NumberGuessingGameTivaR.pdb
